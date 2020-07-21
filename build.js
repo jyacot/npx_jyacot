@@ -10,14 +10,14 @@ const path = require("path");
 const options = {
   padding: 1,
   margin: 1,
-  borderStyle: "round"
+  borderStyle: "round",
 };
 
 // Text + chalk definitions
 const data = {
   name: chalk.white("               Julio Yacot"),
   handle: chalk.white("jyacot"),
-  work: chalk.white("Mobile Apps Dev"),
+  work: chalk.white("Cross-Platform Mobile App Developer"),
   // opensource: chalk.white('Node.js Community Committee ') + chalk.green('⬢'),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("jyacot"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("jyacot"),
@@ -32,7 +32,7 @@ const data = {
   labelGitHub: chalk.white.bold("     GitHub:"),
   labelLinkedIn: chalk.white.bold("   LinkedIn:"),
   // labelWeb: chalk.white.bold("        Web:"),
-  labelCard: chalk.white.bold("       Card:")
+  labelCard: chalk.white.bold("       Card:"),
 };
 
 // Actual strings we're going to output
