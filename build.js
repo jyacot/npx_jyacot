@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white("               Julio Yacot"),
   handle: chalk.white("jyacot"),
-  work: chalk.white("Cross-Platform Mobile App Developer"),
+  work: chalk.white("Frontend Dev | Angular | Ionic"),
   // opensource: chalk.white('Node.js Community Committee ') + chalk.green('⬢'),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("jyacot"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("jyacot"),
